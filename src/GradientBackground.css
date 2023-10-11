@@ -1,0 +1,7 @@
+.gradient-container {
+    background: linear-gradient(to bottom right, #0000AA, #00AADD);
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+  }
